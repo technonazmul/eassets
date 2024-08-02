@@ -4595,9 +4595,7 @@ a[class~=headerlogo] {
 }
 
 @media all and (min-width: 900px) {
-    a.headerlogo img {
-        height: 120px;
-    }
+
 
     a[class~=headerlogo] {
         margin-left: .9375pc;
